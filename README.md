@@ -91,7 +91,3 @@ A React application that allows users to input JSON data, send it to a backend A
 
 - **GET**: `https://backend.saxenaayush27-work.workers.dev/api/<unique-key>`
   - Retrieve stored JSON using the unique key.
-
----
-
-Feel free to customize the README as per your needs!
